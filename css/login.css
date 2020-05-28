@@ -1,0 +1,31 @@
+html,
+body {
+  overflow-x: hidden!important;
+  font-family: 'Source Sans Pro', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100%;
+  background:none !important;
+  font-size: 13px !important;
+}
+a {
+  color: #f4f8fa;
+}
+a:hover,
+a:active,
+a:focus {
+  outline: none;
+  text-decoration: none;
+  color: #72afd2;
+}
+
+#login-box
+{
+  max-width:350px!important;
+  margin: 34vh auto 0 auto;
+}
+
+
+#copy-right
+{
+  text-align: center; color:#FFF
+}

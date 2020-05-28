@@ -1,0 +1,6 @@
+CSS:
+======
+file name        : AdminLTE.css
+navbar style     : line no:2628.  class : skin-blue .navbar (change only background-color)
+Logo style       : line no:2653   class : skin-blue .logo   (change only background-color)
+active menu style: line no:2693   class : skin-blue .sidebar > .sidebar-menu > li > a:hover, .skin-blue .sidebar > .sidebar-menu > li.active > a 
